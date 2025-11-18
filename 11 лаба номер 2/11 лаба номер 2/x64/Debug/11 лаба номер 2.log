@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\Сергей\Desktop\Андрейка\11 лаба номер 2\FileName.c(7,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Сергей\Desktop\Андрейка\11 лаба номер 2\FileName.c(26,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  11 лаба номер 2.vcxproj -> C:\Users\Сергей\Desktop\Андрейка\11 лаба номер 2\x64\Debug\11 лаба номер 2.exe
